@@ -1,0 +1,57 @@
+/* 
+    Document   : style
+    Created on : 2013-10-8, 13:42:58
+    Author     : djeiho
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+#UserInfo{
+    width: 100%;  
+}
+#header{
+    padding-left: 250px;
+    margin-bottom: 75px;
+    width: 100%;
+}
+#mesL{
+    width: 25%;
+    float: left;
+}
+#Messige{
+    width: 50%;
+    margin-left:25%;
+
+}
+#mesR{
+    width: 25%;
+    float: right;
+}
+h1 {
+    color: darkblue;
+    font-family:"Arial"; 
+    font-style: italic;
+    margin-bottom: 0px;
+    text-decoration: underline;
+
+}
+.smile{
+    font-size: 10px;
+    padding-top: 2px; 
+    margin-top: 0px
+
+}
+
+p em {
+    text-decoration: underline;
+    margin-top: 0px
+
+}
+.messige {
+    color:  black;
+    font-size: 22px;
+
+}
