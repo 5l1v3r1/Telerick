@@ -1,2 +1,0 @@
-# Telerick
-Projekte von Telerick
